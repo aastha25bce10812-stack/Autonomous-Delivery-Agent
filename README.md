@@ -16,9 +16,9 @@ This project helps demonstrate how **AI-based pathfinding** can be useful in sol
 ## Setup Instructions
 
 1. **Clone the repository**
-https://github.com/your-username/autonomous-delivery-agent.git
+https://github.com/aastha25bce10812-stack/Autonomous-Delivery-Agent.git
 
-2. **Create a virtual environment**
+3. **Create a virtual environment**
 [ python -m venv venv ]
 
 Activate the virtual environment: Windows: [ venv\Scripts\activate ]
