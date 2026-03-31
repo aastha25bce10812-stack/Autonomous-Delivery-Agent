@@ -21,13 +21,13 @@ https://github.com/aastha25bce10812-stack/Autonomous-Delivery-Agent.git
 3. **Create a virtual environment**
 [ python -m venv venv ]
 
-Activate the virtual environment: Windows: [ venv\Scripts\activate ]
+  Activate the virtual environment: Windows: [ venv\Scripts\activate ]
 
 3.**Install required libraries**
 
-If you are using only the basic simulation code, no external libraries are required because it uses Python built-in modules.
+  If you are using only the basic simulation code, no external libraries are required because it uses Python built-in modules.
 
-If you are using the extended/project version with plotting and analysis, install:
+  If you are using the extended/project version with plotting and analysis, install:
 
 [ pip install pandas matplotlib seaborn numpy ]
 
@@ -85,14 +85,14 @@ The same process is repeated for:
   
 ## Future Enhancements
 
--  Add a GUI version using Tkinter or Pygame
+- Add a GUI version using Tkinter or Pygame
   
 - Add colored visualization for better path display
   
 - Introduce weighted roads and traffic simulation
   
--  Add real-world map integration
+- Add real-world map integration
 
 - Expand to multiple delivery agents
   
--  Improve obstacle movement for more realistic simulations
+-Improve obstacle movement for more realistic simulations
