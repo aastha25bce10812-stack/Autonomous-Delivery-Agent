@@ -30,6 +30,7 @@ If you are using only the basic simulation code, no external libraries are requi
 If you are using the extended/project version with plotting and analysis, install:
 
 [ pip install pandas matplotlib seaborn numpy ]
+
 4. **Run the Project**
  [ python main.py ]
 
